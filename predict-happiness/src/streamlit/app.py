@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 # import catboost
-# from catboost import CatBoostRegressor
+from catboost import CatBoostRegressor
 # import joblib
 import pickle as pk
 import json
